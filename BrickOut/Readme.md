@@ -1,5 +1,8 @@
 This is a BrickOut game in C# whitout Engine, just Visual Studio 2015.
 
+Video:
+https://www.youtube.com/watch?v=kJ4O6x_6lbc
+
 Credits:
 
 How to Make a Ping Pong Game in C# (#1) [1080p]
